@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LizzieLaShark/csv2json/issues"
   },
-  "homepage": "https://github.com/LizzieLaShark/csv2json#readme"
+  "homepage": "https://github.com/LizzieLaShark/csv2json#readme",
+  "dependencies": {
+    "csvtojson": "^1.0.3"
+  }
 }
